@@ -1,0 +1,37 @@
+/*
+ Theme Name:   oceanwpchild
+ Theme URI:    http://sancu
+ Description:  oceanwp child for sancu
+ Author:       Mal
+ Author URI:   http://localhost
+ Template:     oceanwp
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  Ocean Wp child
+*/
+
+@import url("../oceanwp/style.css");
+
+/* START OF Display full-width pages
+.container { 
+    width: 100% !important;
+}
+#main-wrapper {
+    padding: 0 10px; 
+    -webkit-box-sizing: border-box; 
+    -moz-box-sizing: border-box; 
+    box-sizing: border-box;
+}
+ END OF Display full-width pages */
+
+ /*#site-header{
+    position: fixed!important;
+    margin-top: 20px;
+    box-shadow: 10px 10px 26px -10px rgba(0,0,0,0.1);
+ }
+
+ body{
+ 	background-color: black;
+ }*/
